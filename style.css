@@ -99,6 +99,11 @@ form label {
   font-weight: bold;
 }
 
+form div {
+  display: flex;
+  justify-content: space-between;
+}
+
 form select,
 form input {
   margin-bottom: 20px;
@@ -163,6 +168,8 @@ footer p {
 
   form {
     display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
 }
