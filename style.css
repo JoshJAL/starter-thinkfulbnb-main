@@ -144,7 +144,7 @@ footer p {
   }
 
   .logo {
-    margin: 12px 12px 12px 12px;
+    margin: 12px 0;
     padding-top: 0;
     font-size: 48px;
   }
@@ -163,7 +163,7 @@ footer p {
   /* -------  Search Form ------- */
   
   form select, form input {
-    margin-bottom: 12px;
+    margin-bottom: 12px 0;
     width: 100%;
   }
 
